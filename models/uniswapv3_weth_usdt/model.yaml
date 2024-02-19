@@ -30,4 +30,4 @@ normalizing:
 metadata:
   firecache: false
   covariate: false
-  models: {}
+  model: {}
