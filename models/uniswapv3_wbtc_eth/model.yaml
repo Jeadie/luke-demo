@@ -30,3 +30,5 @@ inferencing:
 epochs: 3
 normalizing:
   entry_point: 'normalize:noop'
+metadata:
+  model: {}
